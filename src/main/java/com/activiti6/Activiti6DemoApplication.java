@@ -16,7 +16,8 @@ import springfox.documentation.oas.annotations.EnableOpenApi;
 public class Activiti6DemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Activiti6DemoApplication.class, args);
+        //SpringApplication.run(Activiti6DemoApplication.class, args);
+        
     }
 
 }
